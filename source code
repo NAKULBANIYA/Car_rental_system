@@ -3,7 +3,7 @@ import java.awt.event.*;
 import java.util.ArrayList;
 import java.util.List;
 import java.sql.*;
-
+//class car helps to arrange the cars and return the values 
 class Car {
     private String carId;
     private String brand;
